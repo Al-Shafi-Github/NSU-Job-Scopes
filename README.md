@@ -1,1 +1,1 @@
-# NSU-Job-Scopes is a Online Job and Intern portal only for NSU Students. Here they can create account and post for jobs, based on their location. Different profile systems for both Employee and Employers. 
+<p> NSU-Job-Scopes is a Online Job and Intern portal only for NSU Students. Here they can create account and post for jobs, based on their location. Different profile systems for both Employee and Employers. </p> 
