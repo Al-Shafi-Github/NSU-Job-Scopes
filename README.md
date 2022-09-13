@@ -1,3 +1,4 @@
+<h2> Introduction </h2>
 <p>NSU Job Scopes is an online job-seeking platform for the students and Alumni of North South University. The students of NSU can see available job posts and apply if they register as an employee on our website. On the other hand, the Alumni of NSU can post jobs to find the perfect candidates if they register as an employer. Our website has different features available for both the employee and employer. On the website, the user experiences the "three click rule" to find any module within three clicks. It has a precise homepage portraying the motto of our website and many other options, e.g. job list, employer, employee,  contact us, log in, register, log out. Users can visit all the pages. However, they can't apply or post a job until they register on our website. Once they register, they will get a confirmation mail to verify their account. After verifying, the users can explore the website and use all the features.
  </p> 
  
