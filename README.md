@@ -2,23 +2,23 @@
  </p> 
  
  <h2> Applications </h2>
- <li>
- <ul>User Registration: Employers and employees have different registration processes. Only current NSUers and NSU alumni can register on our website using their NSU mail. No one can register without an NSU mail</ul>
- <ul>User  Verification: After registration users have to verify their credentials in order to get the full experience of our website.
-</ul>
- <ul>User login: After the registration and verification process, users can login and explore the website.</ul>
- <ul>Optimized Search Engine: We have built an optimized search engine that will provide the user to search for jobs based on their preferred job category and area. </ul>
- <ul>Job list: Users can see all the job offers posted by our NSU alumni on behalf of  different companies in one place in an organized way.
-</ul>
-<ul>Employer: Users can see all companies registered on our website under the employer category. 
-</ul>
- <ul>Employee: All the users who registered as an employee will be visible on the employee page. </ul>
- <ul>Employer Profile: Employers can edit and update their profile details, post jobs from their profiles. They can manage and edit job posts such as changing  deadlines.
-</ul>
- <ul>Employee Profile: Employees can edit and update their profile details, upload their CV and profile picture and many more.</ul>
- <ul>Privacy: All the information of the users are encrypted using md5 encryption. </ul>
- <ul>Contact Us: Users can contact us if they have any queries or if they are facing any problems on our website. 
-</ul>
- </li>
+ <ul>
+ <li>User Registration: Employers and employees have different registration processes. Only current NSUers and NSU alumni can register on our website using their NSU mail. No one can register without an NSU mail</li>
+ <li>User  Verification: After registration users have to verify their credentials in order to get the full experience of our website.
+</li>
+ <li>User login: After the registration and verification process, users can login and explore the website.</li>
+ <li>Optimized Search Engine: We have built an optimized search engine that will provide the user to search for jobs based on their preferred job category and area. </li>
+ <li>Job list: Users can see all the job offers posted by our NSU alumni on behalf of  different companies in one place in an organized way.
+</li>
+<li>Employer: Users can see all companies registered on our website under the employer category. 
+</li>
+ <li>Employee: All the users who registered as an employee will be visible on the employee page. </li>
+ <li>Employer Profile: Employers can edit and update their profile details, post jobs from their profiles. They can manage and edit job posts such as changing  deadlines.
+</li>
+ <li>Employee Profile: Employees can edit and update their profile details, upload their CV and profile picture and many more.</li>
+ <li>Privacy: All the information of the users are encrypted using md5 encryption. </li>
+ <li>Contact Us: Users can contact us if they have any queries or if they are facing any problems on our website. 
+</li>
+ </ul>
  
 
