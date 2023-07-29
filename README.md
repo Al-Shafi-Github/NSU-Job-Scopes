@@ -1,15 +1,12 @@
 <img src= "https://github.com/Al-Shafi-Github/NSU-Job-Scopes/assets/68460013/3de83ea5-a53b-4a6c-af24-3111a4d2fd9c">
 
-<img src= "https://github.com/Al-Shafi-Github/NSU-Job-Scopes/assets/68460013/f948f12f-9063-496b-8dfa-e5adcd987929">
-<img src= "https://github.com/Al-Shafi-Github/NSU-Job-Scopes/assets/68460013/67626b04-4e66-40b9-9e86-eaec4ab2a9c1">
-
-
 <img src= "https://github.com/Al-Shafi-Github/NSU-Job-Scopes/assets/68460013/01cb75f4-d4e3-4788-a8b2-0b2e925f073e">
 
 <img src= "https://github.com/Al-Shafi-Github/NSU-Job-Scopes/assets/68460013/7865e8cb-68f4-4cf6-afa4-ca174fd22452">
 <img src= "https://github.com/Al-Shafi-Github/NSU-Job-Scopes/assets/68460013/961bafec-4f8b-4867-9911-f6a2376025a3">
 <img src= "https://github.com/Al-Shafi-Github/NSU-Job-Scopes/assets/68460013/ab950386-5679-400e-857f-710250da6572">
 <img src= "https://github.com/Al-Shafi-Github/NSU-Job-Scopes/assets/68460013/ebef2fbd-7429-4add-8faa-320422f82a72">
+<img src= "https://github.com/Al-Shafi-Github/NSU-Job-Scopes/assets/68460013/67626b04-4e66-40b9-9e86-eaec4ab2a9c1">
 <img src= "https://github.com/Al-Shafi-Github/NSU-Job-Scopes/assets/68460013/f948f12f-9063-496b-8dfa-e5adcd987929">
 
 
