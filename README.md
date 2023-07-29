@@ -1,3 +1,19 @@
+<img src= "https://github.com/Al-Shafi-Github/NSU-Job-Scopes/assets/68460013/3de83ea5-a53b-4a6c-af24-3111a4d2fd9c">
+
+<img src= "https://github.com/Al-Shafi-Github/NSU-Job-Scopes/assets/68460013/f948f12f-9063-496b-8dfa-e5adcd987929">
+
+<img src= "https://github.com/Al-Shafi-Github/NSU-Job-Scopes/assets/68460013/01cb75f4-d4e3-4788-a8b2-0b2e925f073e">
+
+<img src= "https://github.com/Al-Shafi-Github/NSU-Job-Scopes/assets/68460013/7865e8cb-68f4-4cf6-afa4-ca174fd22452">
+
+<img src= "https://github.com/Al-Shafi-Github/NSU-Job-Scopes/assets/68460013/ebef2fbd-7429-4add-8faa-320422f82a72">
+
+<img src= "https://github.com/Al-Shafi-Github/NSU-Job-Scopes/assets/68460013/6fff99af-7390-4771-a6d5-b459043f5003">
+
+<img src= "https://github.com/Al-Shafi-Github/NSU-Job-Scopes/assets/68460013/a012a989-0d6c-44c9-8f47-73ecb54ce260">
+
+
+
 <h2> Introduction </h2>
 <p>Job Scopes is a personalized job and internship portal designed specifically for students and alumni of a North South university. This full-stack website utilizes PHP, JavaScript, Ajax, MySQL, and Bootstrap to provide a comprehensive platform for connecting university members with job opportunities. The platform offers different features for employees (students) and employers (alumni), ensuring a seamless experience and efficient job search process. The system ensures secure authentication with email verification, restricted to .edu mail addresses, and employs robust password encryption to safeguard user accounts.
  </p> 
