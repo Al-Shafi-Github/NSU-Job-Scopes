@@ -65,7 +65,7 @@
  </ul>
  
 <h2>License</h2>
-The project is licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The project is licensed under the [MIT license](https://opensource.org/licenses/MIT) .
 
 <h2>Contact</h2>
 If you have any questions or suggestions regarding the project, please feel free to reach out to me:
